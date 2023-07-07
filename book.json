@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "chapter-fold",
+    "hide-published-with",
+    "hints",
+    "mermaid-newface",
+    "theme-creative"
+  ]
+}

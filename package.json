@@ -1,0 +1,25 @@
+{
+  "name": "honkit-issue-354",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "honkit": "^4.0.7"
+  },
+  "dependencies": {
+    "@honkit/honkit-plugin-highlight": "^4.0.8",
+    "ebook-convert": "^2.0.1",
+    "gitbook-plugin-chapter-fold": "^0.0.4",
+    "gitbook-plugin-hide-published-with": "^0.0.1",
+    "gitbook-plugin-hints": "^1.0.2",
+    "gitbook-plugin-mermaid-newface": "^4.1.0",
+    "gitbook-plugin-theme-creative": "^1.0.6"
+  },
+  "author": "azu",
+  "license": "MIT"
+}
